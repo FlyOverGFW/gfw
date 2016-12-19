@@ -172,3 +172,11 @@ Linux Cooked interface使用编译（venetX，OpenVZ）： `sh build.sh -DCOOKED
 wget https://raw.githubusercontent.com/weaming/gfw/master/FilesBackup/finalspeed.sh
 sh finalspeed.sh
 ```
+
+# compare
+
+单边加速|双边加速
+-----|-----
+net speeder | [kcptun](https://github.com/xtaci/kcptun)  
+[serverspeeder](https://github.com/91yun/serverspeeder) | [FinalSpeed](https://github.com/d1sm/finalspeed)
+TCP BBR | 
